@@ -8,6 +8,7 @@
 </HEAD>
 <BODY>
 
-<jsp:forward page="/view/login.jsp"></jsp:forward>
+<jsp:forward page="/view/testJson.jsp"></jsp:forward>
+<%--<jsp:forward page="/view/login.jsp"></jsp:forward>--%>
 </BODY>
 </HTML>

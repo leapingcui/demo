@@ -6,7 +6,6 @@
 </head>
 <body>
 <h1>学生信息</h1>
-<h3><a href="${webRoot}/studentController/testLogback.do">测试logback</a></h3>
 <a href="${webRoot}/studentController/insertStudentUI.do">新增</a>
 <table border="1" >
     <tr>

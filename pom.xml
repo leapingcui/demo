@@ -253,6 +253,20 @@
       <version>RELEASE</version>
     </dependency>
 
+    <!--支持json-->
+    <dependency>
+      <groupId>org.codehaus.jackson</groupId>
+      <artifactId>jackson-core-asl</artifactId>
+      <version>1.9.13</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.codehaus.jackson</groupId>
+      <artifactId>jackson-mapper-asl</artifactId>
+      <version>1.9.13</version>
+    </dependency>
+
+
   </dependencies>
 
   <!--下面这个resouces为了生成的*mapper.xml文件在java/src/com.*文件夹中能够访问到
