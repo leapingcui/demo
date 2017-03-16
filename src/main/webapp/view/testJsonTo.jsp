@@ -20,6 +20,7 @@
     </script>
 
     <script type="text/javascript">
+//        解析传过来的参数
         function parseUrl(){
             var url=location.href;
             var i=url.indexOf('?');
